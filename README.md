@@ -1,4 +1,4 @@
-# Olist E-Commerce Power BI Analysis
+#  E-CommerceAnalysis
 
 ## Project Overview
 
@@ -49,11 +49,25 @@ The project focuses on sales performance, customer behavior, delivery performanc
 - Customer analysis
 - Operational analysis
 - Business insights
+- ## SQL Analysis
+
+The SQL analysis includes:
+
+- Data exploration
+- Sales and revenue analysis
+- Customer analysis
+- Product and category analysis
+- Seller performance
+- Review analysis
+- Delivery performance
+- State-level sales analysis
+- Business insight queries
 
 ## Files
 
 - `Olist_Ecommerce_Analysis.pbix` — Power BI dashboard
 - `screenshots/` — Dashboard screenshots
+- 
 
 ## Author
 
